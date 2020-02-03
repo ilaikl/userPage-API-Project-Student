@@ -48,12 +48,12 @@ body {
     font-size: 1.5vmax;
     text-align: left;
     color: #2c3e50;
+    font-family: 'Nunito', sans-serif;
     padding: 1vmax;
-    font-family: 'Indie Flower', cursive;
 }
 
 .quote-container>p {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-size: 1vmax;
 }
 
